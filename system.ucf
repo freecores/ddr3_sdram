@@ -1,4 +1,4 @@
-# For SiOI FG484 Spartan 6 board
+# For SiOI FS6484 Spartan 6 board
 # Copyright 2012 SiOI
 
 CONFIG VCCAUX=3.3;
